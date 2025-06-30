@@ -1,0 +1,5 @@
+markdown: redcarpet
+url: https://saving.love
+exclude: ['README.md']
+repository: new-SavingDotLove/saving.love
+theme: null
